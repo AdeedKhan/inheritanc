@@ -1,0 +1,14 @@
+D:\De-coders\inheritanc\inheritanc\bin\Debug\net8.0\inheritanc.exe
+D:\De-coders\inheritanc\inheritanc\bin\Debug\net8.0\inheritanc.deps.json
+D:\De-coders\inheritanc\inheritanc\bin\Debug\net8.0\inheritanc.runtimeconfig.json
+D:\De-coders\inheritanc\inheritanc\bin\Debug\net8.0\inheritanc.dll
+D:\De-coders\inheritanc\inheritanc\bin\Debug\net8.0\inheritanc.pdb
+D:\De-coders\inheritanc\inheritanc\obj\Debug\net8.0\inheritanc.GeneratedMSBuildEditorConfig.editorconfig
+D:\De-coders\inheritanc\inheritanc\obj\Debug\net8.0\inheritanc.AssemblyInfoInputs.cache
+D:\De-coders\inheritanc\inheritanc\obj\Debug\net8.0\inheritanc.AssemblyInfo.cs
+D:\De-coders\inheritanc\inheritanc\obj\Debug\net8.0\inheritanc.csproj.CoreCompileInputs.cache
+D:\De-coders\inheritanc\inheritanc\obj\Debug\net8.0\inheritanc.dll
+D:\De-coders\inheritanc\inheritanc\obj\Debug\net8.0\refint\inheritanc.dll
+D:\De-coders\inheritanc\inheritanc\obj\Debug\net8.0\inheritanc.pdb
+D:\De-coders\inheritanc\inheritanc\obj\Debug\net8.0\inheritanc.genruntimeconfig.cache
+D:\De-coders\inheritanc\inheritanc\obj\Debug\net8.0\ref\inheritanc.dll
